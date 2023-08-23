@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Aditya532638/Aditya532638/blob/main/github-header-image.png)
 
 
 <h1 align="center">Hi 👋, I'm Aditya Chougale</h1>
